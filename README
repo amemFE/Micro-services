@@ -1,0 +1,12 @@
+Run following command inside each folder(for more info check Readme files inside each folder)
+
+./gradlew run
+
+
+I have configured each server a different port like below.
+
+dog-server -  port 7080
+fashion server - port 8080
+food server - port 9080
+
+You can change port by changin config.yml in each server folders.
